@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <main.h>
 
 /**
 * main - don’t delete it!
